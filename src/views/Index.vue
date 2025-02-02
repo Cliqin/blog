@@ -133,7 +133,6 @@ export default {
             toolButton: false,
             // mouseAnimation: false,
             isDark: false,
-            scrollTop: 0,
             toolbarDrawer: false,
             mobile: false
         }
